@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 
-    font-family: 'Railway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .logo {
@@ -34,13 +34,13 @@
 
 main {
     display: flex;
-
+    justify-content: space-between;
     margin-top: 13vh;
     color: rgb(51, 48, 83);
 }
 
 main img {
-    width: 40em;
+    width: 45em;
 }
 
 .left-top {
@@ -49,16 +49,38 @@ main img {
 }
 
 .left-top h1 {
-    font-size: 2.3em;
+    font-size: 2.5em;
     margin-bottom: 2.5vh;
-    letter-spacing: .3px;
 }
 
 .left-top p {
-    letter-spacing: .3px;
-    font-size: 1.1em;
+    font-size: 1.2em;
+    font-weight: 450;
     inline-size: 31em;
-    margin-bottom: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+.left-top-enter-email {
+    display: flex;
+}
+
+.email{
+    width: 23em;
+    height: 3em;
+    margin-right: 1em;
+}
+
+.email-submit {
+    width: 14em;
+    height: 3em;
+    background-color: rgb(61, 100, 240);
+    color: white;
+    border: none;
+}
+
+.left-bottom {
+    margin-top: -5rem;
+    margin-right: 5rem;
 }
 
 
