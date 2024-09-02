@@ -40,7 +40,7 @@ main {
 }
 
 main img {
-    width: 45em;
+    width: 43em;
 }
 
 .left-top {
@@ -49,12 +49,12 @@ main img {
 }
 
 .left-top h1 {
-    font-size: 2.5em;
+    font-size: 2.3em;
     margin-bottom: 2.5vh;
 }
 
 .left-top p {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 450;
     inline-size: 31em;
     margin-bottom: 1.3rem;
